@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [www.github.com/minhazhalim](www.github.com/minhazhalim)
 
-- 💬 Ask me about **JavaScript, Web ecosystem & Internet**
+- 💬 Ask me about **JavaScript, Web Technology & Internet**
 
 - 📫 How to reach me **mhzim93@gmail.com**
 
